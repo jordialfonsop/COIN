@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 51eba7271b3219747803588e49a20d6f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SpotlightOn: {instanceID: 0}
+  - SpotlightOff: {instanceID: 0}
+  - CoinHover: {instanceID: 0}
+  - CoinFlipped: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
